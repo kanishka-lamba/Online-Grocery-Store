@@ -9,6 +9,7 @@ It provides solutions to manage production, inventory, smart retail, discounts &
 # Softwares Used
 
 IDE - IntelliJ (Backend)
+
 VSCode (Frontend)
 
 MySQL Workbench
